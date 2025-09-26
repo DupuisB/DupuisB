@@ -19,7 +19,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DupuisB&theme=graywhite&hide_border=false&background=13161D&stroke=A7A7A7&ring=E0DDD8&fire=A7A7A7&currStreakLabel=A7A7A7" alt="DupuisB streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DupuisB&theme=graywhite&hide_border=false&langs_count=10&bg_color=13161D&title_color=E0DDD8&text_color=A7A7A7"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DupuisB&langs_count=5&theme=graywhite&hide_border=false&bg_color=13161D&title_color=E0DDD8&text_color=A7A7A7"/>
 </td>
 </tr>
 </table>
