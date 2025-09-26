@@ -21,11 +21,11 @@
 <p align="center">
 <table align="center">
 <tr>
-<td width="50%" align="center", style="border: 0px">
+<td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DupuisB&show_icons=true&count_private=true&bg_color=13161D&title_color=E0DDD8&text_color=A7A7A7&icon_color=A7A7A7&line_height=30" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DupuisB&background=13161D&stroke=A7A7A7&ring=A7A7A7&fire=A7A7A7&currStreakLabel=A7A7A7&currStreakNum=E0DDD8&sideNums=E0DDD8&dates=A7A7A7&mode=weekly&card_height=212" alt="DupuisB streak" />
 </td>
-<td width="50%" align="center" style="border: 0px">
+<td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DupuisB&langs_count=5&bg_color=13161D&title_color=E0DDD8&text_color=A7A7A7"/>
 </td>
 </tr>
