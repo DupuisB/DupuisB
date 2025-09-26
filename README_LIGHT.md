@@ -2,7 +2,8 @@
   Profile banner (banner.gif)
 !-->
 
-![My Banner](https://raw.githubusercontent.com/DupuisB/DupuisB/main/assets/banner.gif)
+![My Banner](https://raw.githubusercontent.com/DupuisB/DupuisB/main/assets/banner_light.gif)
+
 
 ### Languages & Technologies
 
